@@ -1,0 +1,19 @@
+<svg id="logo_gold1" data-name="logo gold1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="161.867" height="153.518" viewBox="0 0 161.867 153.518">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.576" y1="-0.093" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#462523"/>
+      <stop offset="0.292" stop-color="#cb9b51" stop-opacity="0.58"/>
+      <stop offset="0.435" stop-color="#f6e27a" stop-opacity="0.447"/>
+      <stop offset="0.545" stop-color="#f6f2c0" stop-opacity="0.498"/>
+      <stop offset="0.644" stop-color="#f6e27a" stop-opacity="0.549"/>
+      <stop offset="0.82" stop-color="#cb9b51" stop-opacity="0.541"/>
+      <stop offset="1" stop-color="#77582b"/>
+      <stop offset="1" stop-color="#462523" stop-opacity="0.58"/>
+      <stop offset="1" stop-color="gray"/>
+    </linearGradient>
+  </defs>
+  <path id="Tracé_1" data-name="Tracé 1" d="M109.348,744.157h27.741V855.928h33.127l20.738,27.741H109.348Z" transform="translate(-109.348 -744.157)" fill="url(#linear-gradient)"/>
+  <path id="Tracé_3" data-name="Tracé 3" d="M109.348,744.157h27.741V855.928h33.127l20.738,27.741H109.348Z" transform="translate(-109.348 -744.157)" fill="url(#linear-gradient)"/>
+  <path id="Tracé_2" data-name="Tracé 2" d="M139.513,761.932,202.8,848.118l68.41-92.38V897.674h-28.28V841.115L202.8,894.442,139.513,808.8Z" transform="translate(-109.348 -744.157)" fill="url(#linear-gradient)"/>
+  <path id="Tracé_4" data-name="Tracé 4" d="M139.513,761.932,202.8,848.118l68.41-92.38V897.674h-28.28V841.115L202.8,894.442,139.513,808.8Z" transform="translate(-109.348 -744.157)" fill="url(#linear-gradient)"/>
+</svg>
